@@ -1,0 +1,9 @@
+{
+	"name": "VinayNewADFDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9e85be8-9f84-433f-a9e4-a746c3865c1f",
+		"tenantId": "dd258e17-779b-4176-9316-40529faf36f2"
+	}
+}
